@@ -1,0 +1,2 @@
+pysimplegui >= 4.16
+TTpy >= 1.0
